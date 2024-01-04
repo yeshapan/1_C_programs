@@ -6,4 +6,4 @@ num2= float(input("Enter second number: "));
 
 #calculate and print sum
 sum= num1 + num2;
-print("Sum of {num1} and {num2} is: {sum}");
+print("Sum of ", num1, " and ",num2, "is: " sum);
